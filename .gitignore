@@ -1,3 +1,20 @@
+# Adding config.py file.
+api_keys.py
+# Adding these files per homework assignment
+API_practice.ipynb
+random_numbers.ipynb
+# .DS_Store
+.DS_Store
+# Editor
+.vscode
+# PySpark
+metastore/
+metastore_db/
+# Byte-compiled / optimized / DLL files
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*$py.class
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
